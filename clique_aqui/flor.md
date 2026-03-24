@@ -1,5 +1,7 @@
 muito bem. Vocês desvendaram o enigma 1- flor
 
+ja deixe anotado a resposta
+
 aqui está sua próxima pista:
 
 *tem muitos dentes, mas não consegue morder*
