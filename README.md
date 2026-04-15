@@ -10,6 +10,6 @@ deixei ovos - não de chocolate, infelizmente - escondidos pelo repositório. Ca
 cada pista terá uma parte de enigma e uma parte de onde está a resposta do enigma no repositório, assim como a primeira pista a seguir:
 
 
-*você encontrará o símbolo máximo da primavera*
+_**você encontrará o símbolo máximo da primavera**_
 
-*em um dos galhos do repositório*
+_**em um dos galhos do repositório**_
