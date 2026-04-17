@@ -8,3 +8,5 @@ se tiver certeza da sua resposta, então faça o seguinte:
 
 
 *envie o código sem espaços e com todas as letras minúsculas para o Coelho no Slack*
+
+*em algum chat do slack, escreva "/coelho", escreva o código no formulário e envie*

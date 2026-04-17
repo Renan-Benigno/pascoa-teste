@@ -4,7 +4,9 @@ se tiver certeza da sua resposta, então faça o seguinte:
 
 *junte as iniciais de todos os ovos para formar o código nessa ordem:*
 
-*6 - 7 - 15 - 12 - 1 - 3 - 13 - 9 - 8 - 2 - 14 - 11 - 10 - 4 - 5*
+*11 - 10 - 4 - 5 - 1 - 7 - 6 - 15 - 12 - 2 - 9 - 3 - 13 - 8 - 14*
 
 
 *envie o código sem espaços e com todas as letras minúsculas para o Coelho no Slack*
+
+*em algum chat do slack, escreva "/coelho", escreva o código no formulário e envie*

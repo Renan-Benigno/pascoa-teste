@@ -7,4 +7,6 @@ se tiver certeza da sua resposta, então faça o seguinte:
 *1 - 6 -  10 - 2 - 14 - 15 - 12 - 4 - 9 - 15 - 11 - 5 - 13 - 8 - 3*
 
 
-*envie com espaço entre cada palavra para o Coelho no Slack**
+*envie com espaço entre cada palavra para o Coelho no Slack*
+
+*em algum chat do slack, escreva "/coelho" e escreva o código no formulário e envie*
