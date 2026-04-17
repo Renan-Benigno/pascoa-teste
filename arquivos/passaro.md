@@ -1,4 +1,4 @@
-veja só. Você acredita que é 15- iguana? Tome cuidado, você só pode mandar a resposta 2 vezes
+veja só. Você acredita que é 15- passaro? Tome cuidado, você só pode mandar a resposta 2 vezes
 
 se tiver certeza da sua resposta, então faça o seguinte:
 

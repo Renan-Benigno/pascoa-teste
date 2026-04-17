@@ -1,4 +1,4 @@
-veja só. Você acredita que é 15- cobra? Tome cuidado, você só pode mandar a resposta 2 vezes
+veja só. Você acredita que é 15- coelho? Tome cuidado, você só pode mandar a resposta 2 vezes
 
 se tiver certeza da sua resposta, então faça o seguinte:
 
@@ -9,4 +9,4 @@ se tiver certeza da sua resposta, então faça o seguinte:
 
 *envie com espaço entre cada palavra para o Coelho no Slack*
 
-*em algum chat do slack, escreva "/coelho" e escreva o código no formulário e envie*
+*em algum chat do slack, escreva "/coelho", escreva o código no formulário e envie*
